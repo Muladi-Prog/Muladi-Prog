@@ -9,6 +9,10 @@ As a fresh graduate, I've brings a fresh perspective and an eagerness to contrib
 
 
 If you are seeking a highly motivated and talented fresh graduate with a passion for AI, I will be the ideal candidate to bring energy and innovation to your organization's AI initiatives.
+
+
+Check out some of my recents works in Kaggle : https://www.kaggle.com/themeeemul
+
 <!--
 **Muladi-Prog/Muladi-Prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
