@@ -1,5 +1,5 @@
 ### Hi there 👋
-I have a strong enthusiasm for Artificial Intelligence (AI) and its transformative potential. I'm holds a Bachelor's degree in Computer Science with a deep understanding of AI algorithms , and techniques.
+I have a strong enthusiasm for Artificial Intelligence (AI) and its transformative potential. I'm holds a Bachelor's degree in Computer Science with a understanding of AI algorithms , and techniques.
 
 During my academic journey, I actively engaged in AI-related research projects, where I gained hands-on experience in developing and implementing machine learning models. My passion for AI led myself to explore diverse domains, including natural language processing, computer vision, and predictive analytics.
 
