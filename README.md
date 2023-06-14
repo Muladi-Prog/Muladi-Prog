@@ -1,6 +1,10 @@
 <span style="font-size:250px;">Hi there 👋. I'm Muladi Muhamad an AI enthusiast.</span> 
 
-<div style="width:100%;height:0;padding-bottom:75%;position:relative;"><iframe src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/BareTreeMedia-cute-working-panting-TdjQAgDIkRsYm1HUbt">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:75%;position:relative;">
+  
+  <img src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+
+</div>
 
 I have a strong enthusiasm for Artificial Intelligence (AI) and its transformative potential. I'm holds a Bachelor's degree in Computer Science with a understanding of AI algorithms , and techniques.
 
