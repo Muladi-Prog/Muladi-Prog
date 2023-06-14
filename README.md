@@ -58,7 +58,9 @@ Check out some of my recents works in Kaggle : https://www.kaggle.com/themeeemul
 
 If you are seeking a highly motivated and talented fresh graduate with a passion for AI, I will be the ideal candidate to bring energy and innovation to your organization's AI initiatives.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/muladi-muhamad-249697193/)
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue)](https://www.linkedin.com/in/muladi-muhamad-249697193/)
+
 
 
 <!--
