@@ -1,9 +1,7 @@
-### Hi there 👋. I'm Muladi Muhamad an AI enthusiast
+### Hi there 👋. I'm Muladi Muhamad an AI enthusiast.
 
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="400" height="217">
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="800" height="217">
 
-
-![Alt Text](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 
 I have a strong enthusiasm for Artificial Intelligence (AI) and its transformative potential. I'm holds a Bachelor's degree in Computer Science with a understanding of AI algorithms , and techniques.
