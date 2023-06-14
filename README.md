@@ -1,5 +1,8 @@
 ### Hi there 👋. I'm Muladi Muhamad an AI enthusiast
 
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="400" height="217">
+
+
 ![Alt Text](https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif)
 
 
