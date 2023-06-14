@@ -1,5 +1,4 @@
-<span style="font-size:10000px;">**Hi there 👋. I'm Muladi Muhamad an AI enthusiast.**</span> 
-
+# **Hi there 👋. I'm Muladi Muhamad an AI enthusiast.**
 
 
 <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" alt="Image" width="800" height="400">
