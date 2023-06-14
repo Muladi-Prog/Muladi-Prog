@@ -47,13 +47,19 @@ I have solid foundation in programming languages such as Python that enables me 
 As a fresh graduate, I've brings a fresh perspective and an eagerness to contribute to real-world AI projects. I'm a quick learner and keeps up with the latest advancements in AI by actively participating in online communities especially in Kaggle.
 
  -->
-If you are seeking a highly motivated and talented fresh graduate with a passion for AI, I will be the ideal candidate to bring energy and innovation to your organization's AI initiatives.
 
 ## Kaggle Profile
 
 [![Kaggle](https://img.shields.io/badge/Kaggle-themeeemul-blue)](https://www.kaggle.com/themeeemul)
 
 Check out some of my recents works in Kaggle : https://www.kaggle.com/themeeemul
+
+## Connect me on:
+
+If you are seeking a highly motivated and talented fresh graduate with a passion for AI, I will be the ideal candidate to bring energy and innovation to your organization's AI initiatives.
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white&labelColor=blue)]([https://www.linkedin.com/in//](https://www.linkedin.com/in/muladi-muhamad-249697193/)
+
 
 <!--
 **Muladi-Prog/Muladi-Prog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
