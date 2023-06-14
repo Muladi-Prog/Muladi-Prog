@@ -1,6 +1,6 @@
-### Hi there 👋. I'm Muladi Muhamad an AI enthusiast.
+<span style="font-size:80px;">Hi there 👋. I'm Muladi Muhamad an AI enthusiast.</span> 
 
-<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="800" height="217">
+<img src="https://media.giphy.com/media/mCRJDo24UvJMA/giphy.gif" width="800" height="300">
 
 
 
