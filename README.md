@@ -1,4 +1,4 @@
-<span style="font-size:1240px;">**Hi there 👋. I'm Muladi Muhamad an AI enthusiast.**</span> 
+<span style="font-size:10000px;">**Hi there 👋. I'm Muladi Muhamad an AI enthusiast.**</span> 
 
 
 
