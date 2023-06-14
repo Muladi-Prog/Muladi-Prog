@@ -2,7 +2,7 @@
 
 <div style="width:100%;height:0;padding-bottom:75%;position:relative;">
   
-  <img src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img>
+  <img src="https://giphy.com/embed/TdjQAgDIkRsYm1HUbt" width="100%" height="100%" style="position:absolute"></img>
 
 </div>
 
