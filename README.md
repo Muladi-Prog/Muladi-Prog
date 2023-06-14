@@ -1,7 +1,10 @@
-<span style="font-size:1240px;">Hi there 👋. I'm Muladi Muhamad an AI enthusiast.</span> 
+<span style="font-size:1240px;">**Hi there 👋. I'm Muladi Muhamad an AI enthusiast.**</span> 
 
 
-![Alt Text](https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif)
+
+<img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" alt="Image" width="800" height="400">
+
+
 
 via [GIPHY](https://giphy.com/gifs/BareTreeMedia-cute-working-panting-TdjQAgDIkRsYm1HUbt)
 
