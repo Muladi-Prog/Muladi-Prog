@@ -1,4 +1,4 @@
-# **Hi there 👋. I'm Muladi Muhamad. Interested in Graph Representation Learning**
+# **Hi there 👋. I'm Muladi Muhamad. AI Enthusiast
 
 
 <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" alt="Image" width="800" height="400">
