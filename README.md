@@ -1,5 +1,10 @@
 # **Hi there 👋. I'm Muladi Muhamad. AI Enthusiast
 
+Check out some of my recent projects!
+-Deep Learning
+[Link to Another Project Repository](https://github.com/Muladi-Prog/Deep_Learning)
+-Machine Learning
+[Link to Another Project Repository](https://github.com/Muladi-Prog/Machine_Learning)
 
 <img src="https://media.giphy.com/media/TdjQAgDIkRsYm1HUbt/giphy.gif" alt="Image" width="800" height="400">
 
